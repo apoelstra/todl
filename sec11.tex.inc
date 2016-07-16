@@ -1,6 +1,6 @@
 \begin{tabularx}{\textwidth}{||c|X||}
 \hline
-$\infty$ & \emph{how canth there be a point paft the end of the world?} \\
+$\infty$ & \emph{how couldst there be a point past the end of the world?} \\
 \hline
 $2^{0}G$ &
 \texttt{0x79be667e f9dcbbac 55a06295 ce870b07 029bfcdb 2dce28d9 59f2815b 16f81798}, \newline
